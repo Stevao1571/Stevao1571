@@ -44,8 +44,7 @@
 
    <samp>
     <p align="center">
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-59-1175248.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
+       
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
@@ -56,8 +55,8 @@
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
     <img height="40" width="40" src="https://code.visualstudio.com/assets/favicon.ico" />
     <img height="40" width="40" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png" />
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/220px-Adobe_XD_CC_icon.svg.png" />
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/493px-Adobe_Photoshop_CC_icon.svg.png" />
+    
+    
   </p>
   </samp>
 
