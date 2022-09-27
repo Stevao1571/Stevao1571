@@ -30,7 +30,7 @@
    </br>Sou programador a 4 anos, amo tecnologia. Apaixonado por futebol e pelo <b>Flamengo</b>🔴⚫.
    </br>Nas horas vagas gosto de jogar Clash Royale e outros jogos variados e atualmente estou focando meus estudos
    </br>na área de front-end com <b>ReactJs</b> e <b>React Native</b>. 
-   </br>Na área de back-end, escrevo em <b>C#</b>.
+   </br>Na área de back-end, escrevo em <b>C# e NodeJS</b>.
     </samp>
     
 ```js
