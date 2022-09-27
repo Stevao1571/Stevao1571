@@ -5,7 +5,7 @@
   <br />
   <br />
     <p align="center">
-   <a href="https://https://twitter.com/GarciaStevao" target="_blank" > 
+   <a href="https://twitter.com/GarciaStevao" target="_blank" > 
      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
   
   <a href="https://instagram.com/garciastevao.atl" target="_blank" >
