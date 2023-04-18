@@ -35,7 +35,7 @@
     
 ```js
   const importantLinks = {
-    📒 Linkedin: 'https://www.linkedin.com/in/stevão-garcia-de-souza-5890b789/', 
+    📒 Linkedin: 'https://www.linkedin.com/in/stevaosouza', 
     👋 Email: 'stevaoo@hotmail.com',
   }
 ```
