@@ -33,12 +33,7 @@
     </br>In the back-end area, I write in <b>C# and NodeJS</b>.
     </samp>
     
-```js
-  const importantLinks = {
-    📒 Linkedin: 'https://www.linkedin.com/in/stevaosouza', 
-    👋 Email: 'stevaoo@hotmail.com',
-  }
-```
+
     
 ### :rocket: Linguagens, Frameworks e Ferramentas
 
