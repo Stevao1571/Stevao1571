@@ -35,7 +35,7 @@
     
 
     
-### :rocket: Linguagens, Frameworks e Ferramentas
+### :rocket: Languages, Frameworks and Tools
 
   <samp>
     <p align="center">
