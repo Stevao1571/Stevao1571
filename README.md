@@ -1,7 +1,7 @@
 ### 🤙🏾 Hello everybody?
 
   <samp>
-     eu sou <b>Stevão Souza</b>.
+     I'm <b>Stevão Souza</b>.
   <br />
   <br />
     <p align="center">
